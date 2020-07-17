@@ -1,0 +1,7 @@
+name: FireFly
+main: pomestie.minty.FireFly
+version: 1.0.24
+description: 'Apply to burn burningable strctures by arrows'
+author: [Minty]
+api-version: 1.16
+website: <a href="http://pomestie.space" class="external free" rel="nofollow">Unicorn Project</a>
